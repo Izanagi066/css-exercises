@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.firstpromt
+.secondpromt {
+    font-size: 28px;
+    font-family: 'Times New Roman', Helvetica, "sans-serif";
+}
+.firstpromt {
+background-color:#000000;
+color: white;
+}
+.secondpromt {
+    background-color: rgb(255, 255,0);
+}
